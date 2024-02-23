@@ -9,3 +9,4 @@ class NotificacionKafkaApplication
 fun main(args: Array<String>) {
 	runApplication<NotificacionKafkaApplication>(*args)
 }
+

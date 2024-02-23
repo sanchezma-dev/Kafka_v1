@@ -1,4 +1,4 @@
-package kafka.app.usuarioKafka.dto
+package kafka.app.usuarioKafka.models
 
 data class Usuario(
     val nombre: String,
